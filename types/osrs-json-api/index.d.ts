@@ -75,6 +75,7 @@ export namespace hiscores {
             'Kree\'Arra': RankScoreObject
             'K\'ril Tsutsaroth': RankScoreObject
             'Mimic': RankScoreObject
+            'Nightmare': RankScoreObject
             'Obor': RankScoreObject
             'Sarachnis': RankScoreObject
             'Scorpia': RankScoreObject
